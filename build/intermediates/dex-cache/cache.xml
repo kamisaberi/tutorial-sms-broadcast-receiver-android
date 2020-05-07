@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\PROJECTS\ME\BroadcastReveiverNewSms1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16ecf9d5295b2d1292a160c85e813d17e8a87cf7">
+        <dex dex="F:\PROJECTS\ME\BroadcastReveiverNewSms1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b946a8e8ea326ec410cef1ddf9e760920c026438\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\GameBackup\Source\cocos2d-x-3.2\android\adt\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\PROJECTS\ME\BroadcastReveiverNewSms1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_fc37f4fc9164d1bb9ef814dcc6c9db98a15fc7fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\PROJECTS\ME\BroadcastReveiverNewSms1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08f00a48cf71ada304ea284f0fa4872743932afe">
+        <dex dex="F:\PROJECTS\ME\BroadcastReveiverNewSms1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f29ccc2ca778ab5675ee3cca7136a9297cc5a5bd\classes.dex" />
+    </item>
+
+</items>
